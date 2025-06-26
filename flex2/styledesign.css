@@ -13,7 +13,7 @@ display: flex;
 .container{
     width:500px;
     height:350px;
-    /* border: 2px solid; */
+    border: 2px solid;
     border-radius: 18px;
     /* display: flex;
     justify-content: center;
@@ -65,6 +65,7 @@ button{
     /* display: flex; */
 background-color: white;
 position: relative;
+border-radius: 0px 0px 10px 10px;
 
 display: none;
 }
